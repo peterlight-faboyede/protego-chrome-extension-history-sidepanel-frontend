@@ -23,7 +23,7 @@ A Chrome Extension that tracks page visits, displays real-time analytics, and ma
 
 ### Code Quality
 - **TypeScript**: Full type safety across the codebase
-- **Comprehensive Testing**: 93%+ code coverage with unit and integration tests
+- **Comprehensive Testing**: ** 93.39% Code Coverage** with unit and integration tests
 - **Modular Architecture**: Clean separation of concerns
 - **Error Handling**: Robust error handling with interceptors
 
@@ -174,7 +174,16 @@ npm run coverage
 
 ### Test Coverage
 
-The project maintains **93%+ code coverage** with comprehensive unit and integration tests.
+** Current Coverage: 93.39%**
+
+The project maintains excellent code coverage with comprehensive unit and integration tests:
+
+| Metric | Coverage |
+|--------|----------|
+| **Statements** | 93.39% |
+| **Branches** | 86.36% |
+| **Functions** | 94.11% |
+| **Lines** | 93.39% |
 
 ### Running Tests
 
